@@ -6,3 +6,7 @@ bin/
 
 #Ignore exe
 *.exe
+
+#Jenkins
+jenkins_*.build
+jenkins_*.changes

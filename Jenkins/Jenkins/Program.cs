@@ -10,8 +10,9 @@ namespace Jenkins
     {
         static void Main(string[] args)
         {
-            Console.ReadKey();
             Console.WriteLine("Hello World!");
+
+            Console.ReadKey();
         }
     }
 }
