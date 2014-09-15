@@ -1,0 +1,1 @@
+C:\workspace\Jenkins\Jenkins\bin\Debug\Jenkins.exe.config
